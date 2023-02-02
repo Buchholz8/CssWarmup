@@ -1,0 +1,15 @@
+#uppertitle {
+font-family: cursive;
+}
+#middletitle {
+font-style: oblique;
+}
+#lowertitle {
+font-size: 40px;
+}
+.body {
+    color: red
+}
+article header {
+    color: deeppink;
+}
